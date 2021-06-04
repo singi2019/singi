@@ -1,0 +1,10 @@
+/*
+&uart0 {
+	compatible = "nordic,nrf-usbd";
+};
+
+&uart1 {
+    status = "disabled";    
+};
+*/
+
